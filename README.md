@@ -39,5 +39,9 @@ I'm **Shubham Jadhav**, a passionate Java enthusiast and MCA graduate from **MIT
 
 ---
 
+<img src="https://github.com/shubhambhau/shubhambhau/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+
+---
+
 ### 📫 Let's connect!
 Feel free to explore my repos and connect if you'd like to collaborate or discuss Java Development.
