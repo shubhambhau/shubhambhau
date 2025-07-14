@@ -38,7 +38,7 @@ I'm **Shubham Jadhav**, a passionate Java enthusiast and MCA graduate from **MIT
 - 💼 [gauravgadekar.com](https://gauravgadekar.com) – Client project
 
 ---
-
+### Daily Streak/Timeline
 <img src="https://github.com/shubhambhau/shubhambhau/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 
 ---
