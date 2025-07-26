@@ -34,7 +34,7 @@ I'm **Shubham Jadhav**, a passionate Java enthusiast and MCA graduate from **MIT
 ## 🌐 Portfolio & Projects
 
 - 🔗 [shubhamjadhav.in](https://shubhamjadhav.in) – My personal portfolio  
-- 📚 [mitcsn.com](https://mitcsn.com) – My platform for courses, newsletters, software, and blogs  
+- 📚 [mitcsn.com](https://mitcsn.com) – My platform for Market, Internships, Training, Courses, Softwares, Newsletters, and blogs  
 - 💼 [gauravgadekar.com](https://gauravgadekar.com) – Client project
 
 ---
