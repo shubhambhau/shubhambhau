@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub profile!
 
-I'm **Shubham Jadhav**, a passionate Java enthusiast and MCA graduate from **MIT**.   
+I'm **Shubham Jadhav** — Founder of **EzSigma IT**, a Java backend enthusiast, and an MCA graduate from **MIT** . I’m passionate about building scalable and efficient backend systems. 
 
 - 💼 Formerly with **TCS**.
 - 👨‍💻 Served as a **(Team Lead) Java Developer Intern** at **Websums Software Pvt. Ltd.**
